@@ -13,7 +13,7 @@
 // 1 euro = 156.5 yenes
 // 1 euro = 0.87 pounds
 // 156.5 yenes = 0.87 pounds
-// 1 yen = 0.0053466587
+// 1 yen = 0.0053466587 pounds
 
 // Declaramos una función con el nombre exacto "formEuroToDollar"
 const fromEuroToDollar = function(valueInEuro) {
